@@ -1,0 +1,1 @@
+Drawing a rudimentary etch-a-sketch website featuring reset button and newGrid button.
